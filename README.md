@@ -8,8 +8,11 @@ The primary objective of this project is to showcase proficiency in web scraping
 
 ## Features
 **Automated Data Extraction:** Scrapes essential details from IMDb's Top 100 Movies.
+
 **Dynamic Content Handling:** Leverages Selenium to deal with dynamically loaded content effectively.
+
 **Data Cleaning and Processing:** Implements preprocessing techniques to clean and prepare data for analysis.
+
 **Structured Data Storage:** Utilizes a Pandas DataFrame and loaded into CSV file for efficient data storage and manipulation.
 
 ## Challenges
